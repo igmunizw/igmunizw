@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Sou estudante de tecnologia e estou em constante busca por conhecimento em Python e Cybersecurity.</p>
+<p align="left">Estudante de tecnologia e estou em constante busca por conhecimento em Python e Cybersecurity.</p>
 
 ###
 
