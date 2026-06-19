@@ -1,16 +1,13 @@
-## Hi there 👋
+## Meu portfólio de estudos: Python & CyberSec 💻
 
-<!--
-**igmunizw/igmunizw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou estudante de tecnologia e estou em constante aprendizado em Python e Cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Atualmente estudando **Python** pela Alura.
+- Entusiasta de **Cybersecurity** e focado em aplicar automação aos meus estudos.
+- Busco desenvolver projetos que unam programação com segurança da informação.
+
+### Minhas tecnologias:
+- Python 🐍
+- Git/GitHub
+- Linux 
