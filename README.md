@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">Atualmente estudando Python pela Alura.<br>Entusiasta de Cybersecurity e focado em aplicar automação aos meus estudos.<br>Busco desenvolver projetos que unam programação com segurança da informação.</p>
+<p align="left">Atualmente estudando Python pela Alura.<br>Entusiasta de Cibersegurança explorando o universo de Red Team e redes.<br>Aprendendo na prática com o Kali Linux e ambientes controlados.<br>Foco em absorver os fundamentos de segurança da informação.</p>
 
 ###
 
